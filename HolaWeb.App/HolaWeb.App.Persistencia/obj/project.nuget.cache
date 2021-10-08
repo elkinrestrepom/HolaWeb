@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P524+9NHKLDqRivrKF7sgE0SbPU7wllBvq6UH5I2P26DGGPl2umXymI65jJjD0OUoXLvCzduLmVvfwME2M4zwQ==",
+  "success": true,
+  "projectFilePath": "C:\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
